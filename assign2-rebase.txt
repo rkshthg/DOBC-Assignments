@@ -1,0 +1,5 @@
+This file is to resolve conflicts using rebase command
+Line 2 for rebase file.
+
+Line 4 for rebase file.
+Last line for rebase file.
