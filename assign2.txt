@@ -1,1 +1,1 @@
-Force conflict from feature-A
+Force conflict from feature-B
